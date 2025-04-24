@@ -20,7 +20,7 @@ Here’s a sneak peek at the mobile UI design:
 
 Understanding the customer experience through every step:
 
-![Customer Journey Map](./assets/customer_journey_map.png)
+![Customer Journey Map](https://github.com/echtkrish12/Haridwar-University-batch-no-5--project-title-Smart-Water-Leakage-SMS-Alert-System/blob/main/Gemini_Generated_Image_1pg9oj1pg9oj1pg9.jpeg?raw=true)
 
 ---
 
