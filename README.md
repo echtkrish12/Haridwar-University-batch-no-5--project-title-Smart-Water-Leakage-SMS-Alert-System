@@ -62,7 +62,7 @@ Understanding the customer experience through every step:
    cd smart-water-leakage-sms
 MIT License
 
-Copyright (c) 2025 Your Name
+Copyright (c) 2025 KRISH KUMAR VERMA
 
 Permission is hereby granted, free of charge, to any person obtaining a copy...
 (Include the full MIT license text here or link to LICENSE file)
