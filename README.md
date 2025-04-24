@@ -10,7 +10,7 @@ A mobile SMS application that sends real-time alerts about water leakage inciden
 
 Here’s a sneak peek at the mobile UI design:
 
-![App UI](./assets/app_ui_preview.png)
+![App UI](https://github.com/echtkrish12/Haridwar-University-batch-no-5--project-title-Smart-Water-Leakage-SMS-Alert-System/blob/main/Gemini_Generated_Image_hmwboihmwboihmwb.jpeg?raw=true)
 
 > *(Designed in Figma — check the full prototype [here](https://www.figma.com/))*
 
